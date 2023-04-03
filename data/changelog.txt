@@ -13,15 +13,9 @@ Add generic finales for generic mine
 Add new boss for physics lab
 Add 4 New Apartment Complexes
 Add several new bungalows
-Correct toad in hole recipe to use toast as well
-Feral Cops
 Add appliances for refilling oxygen tanks
 Removes SPIW Flechette Guns
-Drug lab roof
-Addition of Achievements for major locations
-Fix some incorrect line endings in robotfindskitten
-Motel mapgen update
-Electronic keypad locks
+Add electronic keypad locks for some pre-generated doors
 
 
 ## Interface:
@@ -32,7 +26,6 @@ Added Presets for pocket settings
 Add 'solarized' to color themes
 Add fast scrolling support to camp mission UI
 If item has two use actions, show both in Use Item menu
-Added force drop option to player/NPC debug menu.
 
 
 ## Mods:
@@ -47,11 +40,8 @@ Added force drop option to player/NPC debug menu.
 [Magiclysm Graphical Overmap] Delete Magiclysm Graphical Overmap
 [Magiclysm] Another approach to animist summoning
 [Xedra Evolved] Add content for dreamsmiths and dreamers
-Adds tamablity to newer birds in Tamable_Wildlife Mod
-New mod where the player unlocks perks
-[Innwood] Adds back forest trails. Also no longer requires city size to be set to 0.
-Added documentation and configuration menu for Bombastic Perks
-More Bombastic Perks
+[Bombastic Perks] Add a new mod where the player unlocks perks as they progress through the game
+[Innawood] Adds back forest trails. Also no longer requires city size to be set to 0.
 
 
 ## Balance:
@@ -61,10 +51,6 @@ Add denim as a material and buff jeans
 Removed scent tracking from certain zombies
 Cody can make chainmail armor and charges more
 Rework melee, unarmed, dodge, cutting, stabbing, and bashing practice recipes to limit higher level practice actions to books
-Salisfy and dahlia can be bulk-cooked. Salsify is now safe to eat in any form.
-improve protective lenses CBM
-Chargen description proofreading and a few changes to profession loadouts
-Gives the sugar beet syrup recipe a batch crafting time
 
 
 ## Bugfixes:
@@ -87,13 +73,7 @@ Flush map buffers after failing to create starting location
 Smart controller supports using only one engine
 Disassembly doesn't return items with UNRECOVERABLE flag
 Fix diary text navigation wrapping
-Avoid spilling pocket contents into the origin item.
-Add unique feline mutations to Extra Mutated Scenarios mod
-Adds a roof to generic mines
-Adds a new itemgroup to spawn the paint in the tutorial in cans instead of spilled
-Fixed malicious mane having 0 weight or volume
-Fixing an infinite loop when unloading a container that contains a spillable container
-Diagonal vehicle glyph correction
+Fix display of diagonal vehicle glyphs
 Eliminate unnecessary long road connections
 
 
